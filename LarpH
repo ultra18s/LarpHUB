@@ -6,7 +6,7 @@ local uis = game:GetService('UserInputService')
 local txtservice = game:GetService('TextService')
 local ts = game:GetService('TweenService')
 -- 
-local repo = "https://raw.githubusercontent.com/f1nobe7650/Lynx/main/"
+local repo = "https://raw.githubusercontent.com/ultra18s/Lynx/main/"
 -- Getting the functions n stuff
 local Color = loadstring(game:HttpGet(repo .."Color.lua"))();
 local Math = loadstring(game:HttpGet(repo .."Math.lua"))();
