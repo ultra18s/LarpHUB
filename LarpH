@@ -58,9 +58,9 @@ getgenv().Lynx, getgenv().Visuals, getgenv().utility =
 	["Files"] = {
 		Folders = {"Lynx", "Lynx/Configs", "Lynx/Luas", "Lynx/Assets"},
 		Luas = {
-			["ChinaHat"] = game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/Lynx/main/LUAs/ChinaHat"),
-			["Minecraft"] = game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/Lynx/main/LUAs/Minecraft"),
-			["BetterGame"] = game:HttpGet("https://raw.githubusercontent.com/f1nobe7650/Lynx/main/LUAs/BetterGame")
+			["ChinaHat"] = game:HttpGet("https://raw.githubusercontent.com/ultra18s/China-Hat/main/Hat"),
+			["Minecraft"] = game:HttpGet("https://raw.githubusercontent.com/ultra18s/Lua/main/Hat"),
+			["BetterGame"] = game:HttpGet("https://raw.githubusercontent.com/ultra18s/Womp/main/Lua")
 		}, 
 	}
 }, 
