@@ -35,7 +35,7 @@ getgenv().Lynx, getgenv().Visuals, getgenv().utility =
 	["Account"] = {
 		Username = (lgVarsTbl and lgVarsTbl["DiscordUsername"] or "User"),
 		UserID = LocalPlayer.UserId,
-		Game = "Da Hood"
+		Game = ""
 	},
 	["Locals"] = { 
 		Window = {},
